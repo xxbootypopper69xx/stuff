@@ -10757,8 +10757,8 @@
 "TF_Quest_Status_ReadyToTurnIn"			"Fulfilled"
 
 "TF_QuestObjective_Explanation" "************\n\nPerform any of the following tasks to earn Contract Points."
-"QuestObjective_Required"	"%s1 CP"
-"QuestObjective_Optional"	"(Advanced) %s1 CP"
+"QuestObjective_Required"	"%s1 CP"
+"QuestObjective_Optional"	"(Advanced) %s1 CP"
 "QuestPoints_Standard"	"%s1/%s2 CP"
 "QuestPoints_Bonus"	"Bonus: %s1/%s2 CP"
 
